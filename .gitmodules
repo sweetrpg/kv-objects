@@ -1,0 +1,12 @@
+[submodule "go"]
+	path = go
+	url = git@github.com:sweetrpg/kv-objects.go.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:sweetrpg/kv-objects.rs.git
+[submodule "python"]
+	path = python
+	url = git@github.com:sweetrpg/kv-objects.py.git
+[submodule "swift"]
+	path = swift
+	url = git@github.com:sweetrpg/kv-objects.swift.git
